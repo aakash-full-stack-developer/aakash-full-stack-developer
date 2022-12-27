@@ -74,6 +74,9 @@
     <a href="https://github.com/aakash-limbani/adidas-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
+    <a href="https://github.com/aakash-limbani/github-search" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Github Search&color=000000&logo=Github&logoColor=FFFFFF&label=" alt="Github-Search" />
+    </a>
 </p>
 <br>
 
