@@ -63,10 +63,10 @@
 <h2><i>Live States</i></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-limbani&show_icons=true&locale=en&layout=compact" alt="aakash-limbani" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-limbani&show_icons=true&locale=en" alt="aakash-limbani" /></p>
 
-<br><br><br>
+<br><br>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
