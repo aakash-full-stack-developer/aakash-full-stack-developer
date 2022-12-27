@@ -72,13 +72,16 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/aakash-limbani">
+    <a href="https://linkedin.com/in/aakash-limbani" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aakash-limbani" />
     </a>
-    <a href="https://twitter.com/akash_limbani">
+    <a href="https://twitter.com/akash_limbani" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/akash_limbani" />
     </a>
-    <a title="akashlimbani22@gmail.com" href="mailto:akashlimbani22@gmail.com">
+    <a href="https://stackoverflow.com/users/9967266/aakash-limbani" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Stackoverflow?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="https://twitter.com/akash_limbani" />
+    </a>
+    <a title="akashlimbani22@gmail.com" href="mailto:akashlimbani22@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashlimbani22@gmail.com" />
     </a>
 </p>
