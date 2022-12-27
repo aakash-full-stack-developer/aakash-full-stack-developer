@@ -79,7 +79,7 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/akash_limbani" />
     </a>
     <a href="https://stackoverflow.com/users/9967266/aakash-limbani" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Stackoverflow?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="https://twitter.com/akash_limbani" />
+        <img align="center" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="https://twitter.com/akash_limbani" />
     </a>
     <a title="akashlimbani22@gmail.com" href="mailto:akashlimbani22@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashlimbani22@gmail.com" />
