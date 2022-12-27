@@ -68,9 +68,6 @@
     <a href="https://github.com/aakash-limbani/mini-store-frontend" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/aakash-limbani/lybrate-website-clone" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
     <a href="https://github.com/aakash-limbani/food-ecom-store" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Food-eCom-Store" />
     </a>
