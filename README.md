@@ -70,9 +70,6 @@
     <a href="https://github.com/aakash-limbani/food-ecom-store" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Food-eCom-Store" />
     </a>
-    <a href="https://github.com/aakash-limbani/adidas-clone" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
 </p>
 <br>
 
