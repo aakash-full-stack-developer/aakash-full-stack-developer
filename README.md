@@ -50,6 +50,9 @@
 
 
 <p align="left">
+    <a href="https://github.com/aakash-limbani/github-search" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Github Search&color=000000&logo=Github&logoColor=FFFFFF&label=" alt="Github-Search" />
+    </a>
     <a href="https://github.com/aakash-limbani/weather-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
@@ -73,9 +76,6 @@
     </a>
     <a href="https://github.com/aakash-limbani/adidas-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/aakash-limbani/github-search" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Github Search&color=000000&logo=Github&logoColor=FFFFFF&label=" alt="Github-Search" />
     </a>
 </p>
 <br>
