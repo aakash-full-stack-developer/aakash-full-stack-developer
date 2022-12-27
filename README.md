@@ -2,8 +2,6 @@
 <h1 align="center">Namaste !! 🙏, I'm Aakash Limbani</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-limbani" alt="aakash-limbani" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-limbani](https://github.com/aakash-limbani)
 - 📫 How to reach me **akashlimbani22@gmail.com**
 
@@ -67,8 +65,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-limbani&show_icons=true&locale=en&layout=compact" alt="aakash-limbani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-limbani&show_icons=true&locale=en" alt="aakash-limbani" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-limbani&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-limbani" /> </p>
 
 <br><br><br>
 
