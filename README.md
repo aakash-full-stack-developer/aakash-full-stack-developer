@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">Namaste !! 🙏, I'm Aakash Limbani</h1>
+<h1 align="center">Namaste !! 🙏 I'm Aakash Limbani</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-limbani](https://github.com/aakash-limbani)
