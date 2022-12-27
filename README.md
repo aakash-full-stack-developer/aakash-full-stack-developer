@@ -62,7 +62,7 @@
     <a href="https://github.com/aakash-limbani/translation-react-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-React-App" />
     </a>
-    <a href="https://github.com/aakash-limbani/mini-store" target="_blank">
+    <a href="https://github.com/aakash-limbani/mini-store-frontend" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
     <a href="https://github.com/aakash-limbani/lybrate-website-clone" target="_blank">
