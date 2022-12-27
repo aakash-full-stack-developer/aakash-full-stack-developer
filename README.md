@@ -56,8 +56,8 @@
     <a href="https://github.com/aakash-limbani/social-media-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Social Media Clone&color=1a78f4&logoColor=FFFFFF&label=" alt="Social-Media-Clone" />
     </a>
-    <a href="https://github.com/aakash-limbani/ecom-clone" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=eCom Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="eCom-Clone" />
+    <a href="https://github.com/aakash-limbani/nike-clone-frontend" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=eCom Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
     </a>
     <a href="https://github.com/aakash-limbani/translation-react-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-React-App" />
