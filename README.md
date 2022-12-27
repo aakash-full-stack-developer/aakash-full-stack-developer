@@ -50,7 +50,7 @@
 
 
 <p align="left">
-    <a href="https://github.com/aakash-limbani/Weather-App" target="_blank">
+    <a href="https://github.com/aakash-limbani/weather-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
     <a href="https://github.com/aakash-limbani/social-media-clone" target="_blank">
@@ -59,19 +59,19 @@
     <a href="https://github.com/aakash-limbani/ecom-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=eCom Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="eCom-Clone" />
     </a>
-    <a href="https://github.com/aakash-limbani/Translation-React-App" target="_blank">
+    <a href="https://github.com/aakash-limbani/translation-react-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-React-App" />
     </a>
     <a href="https://github.com/aakash-limbani/mini-store" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/aakash-limbani/Lybrate-Website-Clone-Version-2.0" target="_blank">
+    <a href="https://github.com/aakash-limbani/lybrate-website-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
     </a>
     <a href="https://github.com/aakash-limbani/food-ecom-store" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Food-eCom-Store" />
     </a>
-    <a href="https://github.com/aakash-limbani/Adidas-Clone" target="_blank">
+    <a href="https://github.com/aakash-limbani/adidas-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
 </p>
