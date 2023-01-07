@@ -6,11 +6,8 @@
 - 📫 How to reach me **akashlimbani22@gmail.com**
 
 
+<h2><i><a href="https://www.youtube.com/embed/7YapwMhm9-8" target="_blank">My Video Introduction</a></i></h2>
 
-<h2><i>Introduction</i></h2>
-<p>
-    <iframe width="852" height="480" src="https://www.youtube.com/embed/7YapwMhm9-8" title="Aakash Limbani || Full Stack Developer || MERN || MEAN ||" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2><i>Tech Stack</i></h2>
@@ -75,6 +72,9 @@
 
 <h2><i>Let's Connect</i></h2>
 <p align="left">
+    <a title="akashlimbani22@gmail.com" href="https://youtu.be/7YapwMhm9-8" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="akashlimbani22@gmail.com" />
+    </a>
     <a href="https://linkedin.com/in/aakash-limbani" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aakash-limbani" />
     </a>
