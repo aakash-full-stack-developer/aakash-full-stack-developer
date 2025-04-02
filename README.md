@@ -1,8 +1,8 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">Namaste !! 🙏 I'm Aakash Limbani</h1>
+<h1 align="center">Namaste !! 🙏 I'm Aakash L</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
-- 👨‍💻 All of my demo projects are publically available at [https://github.com/aakash-limbani](https://github.com/aakash-limbani)
+- 👨‍💻 All of my demo projects are publically available at [https://github.com/aakash-full-stack-developer](https://github.com/aakash-full-stack-developer)
 - 📫 How to reach me **akashlimbani22@gmail.com**
 
 
@@ -38,25 +38,25 @@
 <h2><i>My top projects</i></h2>
 
 <p align="left">
-    <a href="https://github.com/aakash-limbani/github-search" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/github-search" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Github Search&color=000000&logo=Github&logoColor=FFFFFF&label=" alt="Github-Search" />
     </a>
-    <a href="https://github.com/aakash-limbani/weather-app" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/weather-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
-    <a href="https://github.com/aakash-limbani/social-media-clone" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/social-media-clone" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Social Media Clone&color=1a78f4&logoColor=FFFFFF&label=" alt="Social-Media-Clone" />
     </a>
-    <a href="https://github.com/aakash-limbani/nike-clone-frontend" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/nike-clone-frontend" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=eCom Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
     </a>
-    <a href="https://github.com/aakash-limbani/translation-react-app" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/translation-react-app" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-React-App" />
     </a>
-    <a href="https://github.com/aakash-limbani/mini-store-frontend" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/mini-store-frontend" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/aakash-limbani/food-ecom-store" target="_blank">
+    <a href="https://github.com/aakash-full-stack-developer/food-ecom-store" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Food-eCom-Store" />
     </a>
 </p>
@@ -64,7 +64,7 @@
 
 <h2><i>Language States</i></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-limbani&show_icons=true&locale=en&layout=compact" alt="aakash-limbani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-full-stack-developer&show_icons=true&locale=en&layout=compact" alt="aakash-full-stack-developer" /></p>
 
 <br><br>
 
@@ -75,8 +75,8 @@
     <a title="akashlimbani22@gmail.com" href="https://youtu.be/7YapwMhm9-8" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="akashlimbani22@gmail.com" />
     </a>
-    <a href="https://linkedin.com/in/aakash-limbani" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aakash-limbani" />
+    <a href="https://linkedin.com/in/aakash-full-stack-developer" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aakash-full-stack-developer" />
     </a>
     <a href="https://twitter.com/akash_limbani" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/akash_limbani" />
